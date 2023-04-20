@@ -13,3 +13,14 @@ I'm currently residing in Tsukuba, Japan <img src="imgs\JP.png" width="15">, whe
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzzit&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xzzit's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzzit&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+#### Top Repositories
+
+
+<a href="https://github.com/Xzzit/ChipGAN-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xzzit&repo=ChipGAN-pytorch&theme=buefy" />
+</a>
+<a href="https://github.com/Xzzit/neural-style-transfer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xzzit&repo=neural-style-transfer&theme=buefy" />
+</a>
