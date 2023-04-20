@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center"><img width="30%" src="imgs\xzz.png" /></a></p>
 
-<!--
-**Xzzit/Xzzit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm currently residing in Tsukuba, Japan <img src="imgs\JP.png" width="15">, where I'm pursuing studies in image processing and deep learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- ❤️ I have a passion for exploring novel techniques in deep learning.
+
+- 🤯 A struggling student trying to publish a paper.
+
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzzit&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xzzit's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzzit&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
