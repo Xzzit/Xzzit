@@ -18,5 +18,5 @@ I'm currently residing in Tsukuba, Japan <img src="imgs\JP.png" width="15">, whe
 #### Top Repositories
 
 
-| <a href="https://github.com/Xzzit/ChipGAN-pytorch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xzzit&repo=ChipGAN-pytorch&theme=buefy" /></a> | <a href="https://github.com/Xzzit/neural-style-transfer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xzzit&repo=neural-style-transfer&theme=buefy" /></a> |
+| <a href="https://github.com/Xzzit/ChipGAN-pytorch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xzzit&repo=ChipGAN-pytorch&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/Xzzit/pytorch-tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xzzit&repo=pytorch-tutorial&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
