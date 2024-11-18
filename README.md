@@ -11,7 +11,7 @@ I'm currently residing in Tsukuba, Japan <img src="imgs\JP.png" width="15">, whe
 - 🤯 A struggling student trying to publish a paper.
 
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzzit&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xzzit's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzzit&layout=compact&theme=buefy&hide_border=true&hide_progress=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzzit&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xzzit's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzzit&layout=compact&theme=buefy&hide_border=true&hide_progress=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
 
