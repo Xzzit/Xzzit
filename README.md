@@ -43,7 +43,7 @@
       </ul>
     </td>
     <td width="30%" valign="center"> <div align="center">
-        <img src="imgs/my_photo.png" width="80%" style="border-radius: 80px;">
+        <img src="imgs/my_photo.png" width="90%" style="border-radius: 80px;">
         <br>
         <span style="font-size: 20px;"><b>Zhi-Zheng Xiang</b></span>
       </div>
@@ -52,3 +52,4 @@
 </table>
 
 ## <img src="imgs\skills.gif" width="30"> **Skills**
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,cpp,cuda&theme=light)
