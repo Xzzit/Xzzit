@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td width="75%" valign="top">
+    <td width="70%" valign="top">
       <h2>
         <img src="imgs/about_me.gif" width="30"> 
         <b>About Me</b>
@@ -42,8 +42,8 @@
         </li>
       </ul>
     </td>
-    <td width="25%" valign="top"> <div align="center">
-        <img src="imgs/my_photo.png" width="60%" style="border-radius: 80px;">
+    <td width="30%" valign="center"> <div align="center">
+        <img src="imgs/my_photo.png" width="80%" style="border-radius: 80px;">
         <br>
         <span style="font-size: 20px;"><b>Zhi-Zheng Xiang</b></span>
       </div>
